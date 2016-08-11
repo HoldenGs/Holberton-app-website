@@ -1,4 +1,4 @@
-var game = new Phaser.Game(600, 450, Phaser.CANVAS, 'article', { preload: preload, create: create, update: update, render: render });
+var game = new Phaser.Game(600, 450, Phaser.CANVAS, 'article', { preload: preload, create: create, update: update, render: render, resetPlayer: resetPlayer});
 
 
 
@@ -32,6 +32,7 @@ function create() {
 	map = game.add.tilemap('level1', 120);
 	map.addTilesetImage('tileset');
 	map.setCollisionByExclusion([8, 139]);
+    map.setTileIndexCallback(8, this.resetPlayer, this);
 
 	// Layer
 	layer = map.createLayer('Tile Layer 1');
@@ -105,8 +106,14 @@ function update() {
         player.body.velocity.y = -1600;
         jumpTimer = game.time.now + 200;
     }
+
+    // Lava
 }
 
 function render() {
 
+}
+
+function resetPlayer() {
+    player.reset(350, game.world.height - 370);
 }
