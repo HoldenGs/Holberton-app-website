@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mul",
+				"multiplier"
+			],
+			[
+				"block",
+				"block_description"
+			],
+			[
+				"put",
+				"put_to_bed"
+			],
+			[
+				"stuff",
+				"stuff_in_intestine"
+			],
+			[
+				"stuf",
+				"stuff_in_intestine"
+			],
+			[
+				"stuff_",
+				"stuff_in_intestine"
+			],
+			[
+				"time",
+				"time_passes"
+			],
+			[
+				"pick",
+				"pick_orange"
+			],
+			[
+				"beer",
+				"beer_number"
+			],
+			[
+				"en",
+				"english_number"
+			],
+			[
+				"write",
+				"write-1"
+			],
+			[
+				"num",
+				"num_words"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"mid",
+				"middle_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"favorite",
+				"favorite_number"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"sket",
+				"sketchpad"
+			],
+			[
+				"sketch",
+				"sketchdiv"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"sk",
+				"sketchDiv"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"as",
+				"aspen-tree1"
+			],
+			[
+				"object",
+				"object-fit"
+			],
+			[
+				"fonts",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.html",
+			"settings":
+			{
+				"buffer_size": 2842,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/holdengrissett/Desktop/Holberton-app-website"
+	],
+	"file_history":
+	[
+		"/Users/holdengrissett/Desktop/Holberton-app-website/html/tweets.html",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/index.html",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/css/styles.css",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/Level1.js",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/MainMenu.js",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/Preloader.js",
+		"/Users/holdengrissett/Desktop/Holberton-app-website/Boot.js",
+		"/Applications/MAMP/htdocs/part8.html",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Applications/MAMP/htdocs/part7.html",
+		"/Users/holdengrissett/Desktop/smart_box/js/app.js",
+		"/Users/holdengrissett/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/holdengrissett/Desktop/mmt-storefront/config/initializers/spree.rb",
+		"/Users/holdengrissett/Desktop/mmt-storefront/gemfile",
+		"/Users/holdengrissett/Desktop/mmt-storefront/config/database.yml",
+		"/Users/holdengrissett/mmt-storefront/rakefile",
+		"/Users/holdengrissett/mmt-storefront/gemfile",
+		"/Users/holdengrissett/mmt-storefront/gemfile.lock",
+		"/Users/holdengrissett/mmt-storefront/config/database.yml",
+		"/Users/holdengrissett/mmt-storefront/Gemfile",
+		"/Users/holdengrissett/Desktop/mmt-storefront/Gemfile",
+		"/Users/holdengrissett/Desktop/mmt-dev-site/config/routes.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/layouts/application.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/controllers/comments_controller.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/assets/stylesheets/screen.css",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/controllers/articles_controller.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/models/article.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/comments/_comment.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/comments/_form.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/articles/show.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/config/routes.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/models/comment.rb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/articles/index.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/articles/edit.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/articles/_form.html.erb",
+		"/Users/holdengrissett/Desktop/website-projects/blog/app/views/articles/new.html.erb",
+		"/Users/holdengrissett/Desktop/blog/app/views/articles/new.html.erb",
+		"/Users/holdengrissett/Desktop/blog/app/models/article.rb",
+		"/Users/holdengrissett/Desktop/blog/app/controllers/articles_controller.rb",
+		"/Users/holdengrissett/Desktop/blog/app/views/articles/edit.html.erb",
+		"/Users/holdengrissett/Desktop/blog/app/views/articles/show.html.erb",
+		"/Users/holdengrissett/Desktop/blog/app/views/welcome/index.html.erb",
+		"/Users/holdengrissett/Desktop/blog/app/views/articles/index.html.erb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/views/orders/show.html.erb",
+		"/Users/holdengrissett/Desktop/blog/config/routes.rb",
+		"/Users/holdengrissett/.ssh/id_rsa",
+		"/Users/holdengrissett/Desktop/widget_shop_functional/app/controllers/orders_controller.rb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/views/orders/_items.html.erb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/views/layouts/application.html.erb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/views/products/index.html.erb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/views/products/show.html.erb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/controllers/products_controller.rb",
+		"/Users/holdengrissett/Desktop/widget_shop/app/controllers/application_controller.rb",
+		"/Users/holdengrissett/Desktop/widget_shop/config/routes.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/learn_ruby/02_calculator/calculator_spec.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/learn_ruby/02_calculator/calculator.rb",
+		"/Users/holdengrissett/Desktop/widget_shop/Gemfile",
+		"/Users/holdengrissett/Desktop/testsite/content/about.html",
+		"/Users/holdengrissett/Desktop/testsite/lib/tags.rb",
+		"/Users/holdengrissett/Desktop/testsite/content/index.html",
+		"/content/index.html",
+		"/Users/holdengrissett/Desktop/testsite/Rules",
+		"/Users/holdengrissett/Desktop/the-odin-project/learn_ruby/01_temperature/temperature.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/learn_ruby/00_hello/hello.rb",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/2982b1ad-760e-45b5-890a-1165a5cb1278/css/styles.css",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/2982b1ad-760e-45b5-890a-1165a5cb1278/index.html",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-challenge/readme.md",
+		"/Users/holdengrissett/Desktop/website-projects/mmt-website/css/styles.css",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/44a267ec-a1ef-43a1-909e-703f9320fab1/index.html",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/f2739d05-2414-45fc-bd1b-24d1dc1b7f60/index.html",
+		"/Users/holdengrissett/Desktop/website-projects/mmt-website/css/main.css",
+		"/Users/holdengrissett/Desktop/website-projects/mmt-website/index.html",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/grandfatherclock.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/log.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/dragon.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/profile.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/orangetree.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/birthdays.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/englishnumber.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/bottlesofbeer.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/weddingnumber.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/interactive.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/tableofcontents.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/wordrepeat.rb",
+		"/Users/holdengrissett/Desktop/the-odin-project/ruby-test/student.rb",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/887cd09f-1bdf-4acf-a26f-19e6f0b5aca0/holdengrissett.com/js/sketchpad.js",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/887cd09f-1bdf-4acf-a26f-19e6f0b5aca0/holdengrissett.com/css/main.css",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/887cd09f-1bdf-4acf-a26f-19e6f0b5aca0/holdengrissett.com/index.html",
+		"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/887cd09f-1bdf-4acf-a26f-19e6f0b5aca0/holdengrissett.com/index.php",
+		"/Users/holdengrissett/Desktop/website-projects/test-website/scripts/main.js",
+		"/Users/holdengrissett/Desktop/website-projects/test-website/style.css",
+		"/Users/holdengrissett/Desktop/website-projects/test-website/index.html",
+		"/Users/holdengrissett/Desktop/website-projects/holdengrissett-domain/index.html",
+		"/Users/holdengrissett/Desktop/Malicious Content Records/Google Redirect Captcha Request/Google Redirect Captcha Request",
+		"//installer.failurerequests",
+		"/Users/holdengrissett/Applications/Chrome",
+		"/Users/holdengrissett/Applications/Apps.localized",
+		"/Users/holdengrissett/Applications/.localized",
+		"/Users/holdengrissett/railsbridge/test_app/test_app",
+		"/Users/holdengrissett/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/holdengrissett/Desktop/website-projects/holdengrissett-domain/images",
+		"/Users/holdengrissett/railsbridge/test_app/config/routes.rb",
+		"/Users/holdengrissett/railsbridge/test_app/Gemfile",
+		"/Users/holdengrissett/text",
+		"/Users/holdengrissett/Adlm/AdlmUserSettings.xml"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"sass-rails",
+			"sprockets-rails",
+			"sproc",
+			"	\n",
+			"sproc",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1269,
+								1269
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2584,
+										2588
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1264,
+										1268
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "holberton-app-website.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/private/var/folders/wy/2z9mlpy96gl6fjl7sljx4cyw0000gn/T/887cd09f-1bdf-4acf-a26f-19e6f0b5aca0/holdengrissett.com/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
